@@ -138,8 +138,9 @@ I aspire to build **multimodal AI agents** that can see, listen, speak, and act 
 
 ## Education
 
-- M.S. in Artificial Intelligence, [**KAIST**](https://gsai.kaist.ac.kr/), 2021 - 2023
+- M.S. in Artificial Intelligence, [**KAIST**](https://gsai.kaist.ac.kr/), Sep 2021 - Aug 2023
   - Advised by [**Prof. Jinwoo Shin**](https://alinlab.kaist.ac.kr/shin.html)
+- B.S. in Mathematical Sciences & Electrical Engineering (Double Major), [**KAIST**](https://www.kaist.ac.kr/), Mar 2017 - Aug 2021
 
 ## Experiences
 
