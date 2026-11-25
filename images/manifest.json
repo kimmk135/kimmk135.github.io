@@ -1,0 +1,19 @@
+{
+	"name": "Minkyu Kim",
+	"short_name": "Minkyu Kim",
+	"description": "Minkyu Kim — AI Researcher at KRAFTON, working on foundation models. Research on multimodal AI agents across vision, language, and speech.",
+	"start_url": "/",
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/images/favicon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/images/favicon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
